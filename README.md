@@ -1,4 +1,3 @@
-# music-frequency-d3
-A music frequency visualizer using D3.js and the Web Audio API.
+A web app that visualizes mp3 files.
 
-Live Demo Link Coming Soon
+Written in JavaScript with D3.js
